@@ -4,7 +4,6 @@ django-admin.py startproject project-name
 
 2. 新建 app
 python manage.py startapp app-name
-或 django-admin.py startapp app-name
 
 3. 同步数据库
 python manage.py syncdb 
